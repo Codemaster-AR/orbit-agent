@@ -1,0 +1,10 @@
+{
+  "security": {
+    "disableSecurityWarnings": false,
+    "bypassAuthForUrls": [],
+    "blockUnsafeSites": true
+  },
+  "performance": {
+    "disableGpuAcceleration": false
+  }
+}

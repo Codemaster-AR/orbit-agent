@@ -1,0 +1,6 @@
+{
+  "name": "Gemini Browser",
+  "description": "A sleek, modern web browser featuring integrated Gemini AI chat that can read and contextually understand the web pages you visit.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
