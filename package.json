@@ -11,6 +11,9 @@
     "dotenv": "^16.4.5"
   },
   "devDependencies": {
-    "electron": "^30.0.0"
+    "electron": "^30.5.1"
+  },
+  "allowScripts": {
+    "electron@30.5.1": true
   }
 }
